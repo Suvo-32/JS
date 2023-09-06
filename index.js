@@ -22,21 +22,9 @@
 
 
 
-// Naming Practice
-// var _myName = "vinod";
-// var 1myName = "thapa";
-// var _1my__Name = "bahadur";
-// var $myName = "thapa technical";
-// var myNaem% = "thapa technical";
-
-// console.log(myNaem%);
-
-
 
 // // **********************************************************************
 
-// // 👉 // 🤩 SUBSCRIBE TO THAPA TECHNICAL YOUTUBE CHANNEL 🤩
-//  👉 // 🤩  https://www.youtube.com/channel/UCwfaAHy4zQUb2APNOGXUCCA
 
 // // **********************************************************************
 
