@@ -16,6 +16,9 @@ const calculator=(n,nu,num,operation)=> {
     return operation(num1,num2,num3);//And Operation is callback Function
 };
 const  pi=3.14;
+const pow = (h1,h2)=>{
+     return h1*h2 ;
+}
  //Here Function call
 const ans=calculator(num1,num2,num3,add);
 console.log(`Final answer is : ${ans}`);
