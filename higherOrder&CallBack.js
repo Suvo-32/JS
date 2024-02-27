@@ -15,6 +15,7 @@ const mul=(n1,n2,n3)=>{
 const calculator=(n,nu,num,operation)=> {
     return operation(num1,num2,num3);//And Operation is callback Function
 };
+const  pi=3.14;
  //Here Function call
 const ans=calculator(num1,num2,num3,add);
 console.log(`Final answer is : ${ans}`);
